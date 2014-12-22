@@ -1,2 +1,28 @@
 .DS_Store
 .vagrant
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Java
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
